@@ -66,3 +66,9 @@ Publisher Login (دخول الناشر): مخصص لمديري النشر وال
 
 
 * **Corr. Author (المؤلف المراسل):** اسم الباحث المسؤول عن مراسلة المجلة ومتابعة البحث من طرف المؤلفين (مثل ` Singh`).
+
+
+
+<img width="1100" height="428" alt="image" src="https://github.com/user-attachments/assets/a0596e76-24ed-4bf8-a48d-91c639fbc4ca" />
+
+
