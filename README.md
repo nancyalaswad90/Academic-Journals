@@ -1,3 +1,5 @@
+.
+
 # Academic-Journals
 ----------------
 
