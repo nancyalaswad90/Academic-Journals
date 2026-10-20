@@ -21,4 +21,3 @@ Publisher Login (دخول الناشر): مخصص لمديري النشر وال
 باختصار، وبما أنكِ تريدين إتمام مهمة تحكيم البحث الجديد، يجب عليكِ إدخال البريد الإلكتروني وكلمة المرور ثم الضغط على زر Reviewer Login.
 
 
-<img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/01e2925a-7b94-4aa1-a964-a809a5852ffb" />
