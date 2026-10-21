@@ -3,7 +3,6 @@
 # Academic-Journals
 ----------------
 
-
 <img width="563" height="248" alt="image" src="https://github.com/user-attachments/assets/3fd32117-46d2-4e4c-a374-28f7360e2e27" />
 
 الفرق بين الأزرار المحددة في الصورة يعتمد على الصفة أو الدور الذي تريدين تسجيل الدخول به إلى النظام:
